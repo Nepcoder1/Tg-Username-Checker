@@ -25,8 +25,8 @@ Boost your Telegram username checking experience with our powerful and easy-to-u
 
 ## Modules:
 ```bash
-pip install requests
-pip install beautifulsoup4
+pip install requests &&
+pip install bs4 &&
 pip install colorama
 ```
 
