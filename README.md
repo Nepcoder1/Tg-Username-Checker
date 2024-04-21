@@ -27,7 +27,7 @@ Boost your Telegram username checking experience with our powerful and easy-to-u
 ```bash
 pip install requests &&
 pip install bs4 &&
-pip install colorama
+pip install colorama &&
 ```
 
 ## Credit:
